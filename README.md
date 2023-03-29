@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  Vaishnav K Ramakrishnan
-- 👀 I’m interested in developing fully function web applications and mobile application
+- 👀 I’m interested in developing fully functional web applications and mobile applications
 - 🌱 I’m currently working as a MERN stack developer
 - 💞️ My techs are MERN, Flutter
 - 📫 Reach me on linkedin.com/in/333vkr/
