@@ -1,7 +1,7 @@
-- 👋 Hi, I’m  @333vkr
-- 👀 I’m interested in mobile application development and web design
-- 🌱 I’m currently learning node.js
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m  Vaishnav K Ramakrishnan
+- 👀 I’m interested in developing fully function web applications and mobile application
+- 🌱 I’m currently working as a MERN stack developer
+- 💞️ My techs are MERN, Flutter
 - 📫 Reach me on linkedin.com/in/333vkr/
 
 <!---
