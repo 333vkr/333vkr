@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing fully functional web applications and mobile applications
 - 🌱 I’m currently working as a MERN stack developer
 - 💞️ My techs are MERN, Flutter
-- 📫 Reach me on [a link](https://www.linkedin.com/in/333vkr/)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/333vkr/)
 
 <!---
 333vkr/333vkr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
